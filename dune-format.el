@@ -4,7 +4,7 @@
 
 ;; Author: Steve Purcell <steve@sanityinc.com>
 ;; Keywords: languages
-;; Package-Requires: ((reformatter "0.6") (emacs "24.1"))
+;; Package-Requires: ((reformatter "0.6") (emacs "24.3"))
 ;; Package-Version: 0.1-pre
 ;; Homepage: https://github.com/purcell/emacs-dune-format
 
